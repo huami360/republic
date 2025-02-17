@@ -1,6 +1,4 @@
-# republic
-
-QA
+# 文智绘党
 
 ## Getting Started
 
